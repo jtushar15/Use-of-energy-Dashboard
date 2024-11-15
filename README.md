@@ -17,5 +17,5 @@ Power Query: The powerful data transformation and cleansing features of Power Qu
 Data Modeling: To produce a well-structured data model, use pertinent columns to establish relationships between tables.
 DAX Measures: To compute key performance indicators (KPIs) essential for energy analysis, custom DAX measures were created.
 
-#Impact:-
+# Impact:-
 I can create a more sustainable future by utilizing Power BI's capabilities and my expertise in data analysis.
